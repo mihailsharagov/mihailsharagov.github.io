@@ -1,2 +1,2 @@
-# mihailsharagov.github.io
+# Михаил Шарагов
 First project.
